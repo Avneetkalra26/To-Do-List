@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Courgette&family=Oooh+Baby&display=swap');
+
+.m{
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#h2{
+    font-family: "Calligraffitti", cursive;
+    font-weight: bold;
+    text-shadow: 0 5px 5px cadetblue;
+}
+.button{
+   margin-top: 2%;
+}
+
+
